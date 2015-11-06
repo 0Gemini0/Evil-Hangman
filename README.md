@@ -12,4 +12,7 @@ A classic game of hangman with an evil twist.
 
 <b>Interface sketches</b>
 
+![Sketch1](/app/src/main/res/drawable/IMG_20151106_223032.jpg)
+![Sketch2](/app/src/main/res/drawable/IMG_20151106_223054.jpg)
+![Sketch3](/app/src/main/res/drawable/IMG_20151106_223113.jpg)
 
